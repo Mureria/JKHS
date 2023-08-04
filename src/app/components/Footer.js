@@ -35,7 +35,7 @@ const Footer = () => {
                     <div className='text-center mt-6 col-span-3 md:text-start md:mt-0 md:col-span-1'>
                         <h1 className='text-sm font-light text-gray-400 leading-8'>Contact us</h1>
                         
-                        <form className="space-y-3" action="#" method="POST">
+                        <form className="space-y-3" action="#" method="POST" netlify>
                             <div>
                                 
                                 <div className="mt-2">
