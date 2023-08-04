@@ -3,11 +3,11 @@ import React from 'react'
 const Projects = () => {
   return (
     <>
-        <div className='w-full h-full my-28'>
+        <div className='w-full h-full mt-6 pb-16 bg-gray-100'>
             <div className='max-w-[1200px] my-6 mx-auto px-6'>
-                <h1 className='text-[2.1rem] pb-[5rem] py-[3rem]'>Projects<span className='text-blue-400'>|</span></h1>
+                <h1 className='text-[2.1rem] pb-[5rem] py-[3rem] '>Projects<span className='text-blue-400'>|</span></h1>
                 <div className='grid gap-10 md:gap-20  md:grid-cols-2'>
-                    <div>
+                    <div className=''>
                      <h2 className='text-2xl font-serif mb-4 '>Modern Toilets</h2>
                      <p className='text-sm font-light text-gray-600 leading-8'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum facilis excepturi at ullam illo reprehenderit exercitationem et eligendi dolore voluptates assumenda eveniet nihil tempora reiciendis, unde, nobis odio voluptatum. Natus quidem placeat eligendi deserunt ducimus numquam reiciendis aliquid et excepturi!</p>
                      <button className='text-sm font-normal text-gray-900 border px-4 py-2 border-blue-500 mt-6'>Read More</button>                    

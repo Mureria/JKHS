@@ -7,7 +7,7 @@ import {MdOutlineScience, MdOutlineDirectionsRun, MdOutlineHandshake} from 'reac
 const Departments = () => {
   return (
    <>
-   <div className='w-full h-full my-28'>
+   <div className='w-full h-full pb-16 my-28'>
         <div className='max-w-[1200px] my-6 mx-auto px-6'>
         <h1 className='text-[2.1rem] pb-[5rem] py-[3rem]'>Departments <span className='text-blue-400'>|</span></h1>
         <div className='flex flex-wrap justify-between items-center gap-4'>
